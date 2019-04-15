@@ -1,0 +1,28 @@
+{
+  "name": "consoleresume",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariusThomas/consoleResume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariusThomas/consoleResume/issues"
+  },
+  "homepage": "https://github.com/DariusThomas/consoleResume#readme",
+  "dependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.4.3",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
